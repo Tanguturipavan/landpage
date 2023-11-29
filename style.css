@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(37, 195, 195);
+    background-color: #ff3333;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+   background-color: burlywood;
+    color:blue;
+    padding: 15px;
+}
+section{
+    text-align: center;
+    background-image: url("time.jpeg");
+    padding: 300px;
+
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+   background-color: aqua;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+    text-size-adjust: 10px;
+    background-color: #d8c0c0;
+    padding: 100px;
+       
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ 
+}
+.task {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(152, 162, 165);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 4px;
+}
+.edit-input {
+    width: 60%;
+    padding: 100px;
+    margin-left: 7px;
+    border: 1px solid #e255c1;
+    background-color: rgb(176, 126, 61);
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
